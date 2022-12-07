@@ -6,3 +6,4 @@ divide = a / b
 print(sum)
 print(divide)
 print("123")
+print(2)
