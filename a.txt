@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is for the practice to azuredevops.
+=======
+sdf asdf a dfa adsf a dsfa
+There has been a change
+>>>>>>> ce63968f79b7daebfe343af419735406c5e2dc0c
