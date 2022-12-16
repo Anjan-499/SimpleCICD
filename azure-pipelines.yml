@@ -17,4 +17,4 @@ steps:
 - script: |
     npm run build
   displayName: 'npm build'
-  workingDirectory: '$(Build.SourcesDirectory)/projectFolderName'
+  workingDirectory: '$(Build.SourcesDirectory)/SimpleCICD'
